@@ -1,0 +1,93 @@
+
+{{--<div id="sections-wrapper" class="flex flex-col align-middle justify-center">
+
+    <section id="home" class="h-svh flex justify-center bg-[#001137]">
+        <div class="flex justify-between w-[80%] mt-[300px]">
+            <div>
+                <h1 class="text-[60px] text-white">Granda Pride IT Company</h1>
+                <p class="text-[20px] text-white">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus corrupti aliquam
+                    voluptatem
+                    soluta, earum atque mollitia officia quae fugiat commodi eaque consectetur hic eligendi
+                    dicta sint
+                    odit. Ab, nam quibusdam!
+                </p>
+            </div>
+            <div id="home-images">
+                <div class="w-[400px]">
+                    <img src="./images/it-company-1.jpg" class="w-full h-auto block rounded" alt="">
+                </div>
+                <div class="w-[400px] relative">
+                    <img src="./images/it-company-2.jpg"
+                        class="w-full h-auto block absolute top-[10px] right-[40px] rounded" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="h-svh flex justify-center">
+        <div class="w-[80%] flex flex-col">
+            <h1 class="text-center mt-12 text-[50px]">Our Services</h1>
+
+            <div class="flex flex-row justify-between mt-[400px]">
+
+                <div
+                    class="mt-[100px] w-96 h-96 flex flex-col bg-gradient-to-tr from-[#f2f7ff] via-50% via-blue-100 to-white rounded-[40px]">
+                    <div class="relative">
+                        <div class="w-[200px] absolute left-[50px] top-[-100px]">
+                            <img src="./images/company-logo.jpg" class="w-full h-auto block rounded-[40px]"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="m-8 mt-[160px]">
+                        <h1 class="text-[30px]">Service Name</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    </div>
+                </div>
+
+                <div
+                    class="w-96 h-96 flex flex-col bg-gradient-to-tr from-[#f2f7ff] via-50% via-blue-100 to-white rounded-[40px]">
+                    <div class="relative">
+                        <div class="w-[200px] absolute left-[50px] top-[-100px]">
+                            <img src="./images/company-logo.jpg" class="w-full h-auto block rounded-[40px]"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="m-8 mt-[160px]">
+                        <h1 class="text-[30px]">Service Name</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    </div>
+                </div>
+
+                <div
+                    class="mt-[100px] w-96 h-96 flex flex-col bg-gradient-to-bl from-[#fff1f7] via-50% via-red-100 to-white rounded-[40px]">
+                    <div class="relative">
+                        <div class="w-[200px] absolute left-[50px] top-[-100px]">
+                            <img src="./images/company-logo.jpg" class="w-full h-auto block rounded-[40px]"
+                                alt="">
+                        </div>
+                    </div>
+                    <div class="m-8 mt-[160px]">
+                        <h1 class="text-[30px]">Service Name</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    <section id="about" class="h-svh flex justify-center">
+        About
+    </section>
+
+    <section id="blog" class="h-svh flex justify-center">
+        <h1 class="text-[50px] mt-12">Services We Prodvide</h1>
+    </section>
+
+    <section id="contact" class="h-svh flex justify-center">
+
+    </section>
+</div>
+--}}
