@@ -1,6 +1,6 @@
 <section id="about" class="w-full bg-blue-100 h-svh">
-    <div class="h-full sm:flex sm:items-center sm:w-10/12 sm:mx-auto">
-        <div class="my-auto sm:flex sm:justify-between sm:items-center sm:h-80">
+    <div class="h-full py-auto sm:flex sm:items-center sm:w-10/12 sm:mx-auto">
+        <div class="sm:flex sm:justify-between sm:items-center sm:h-80">
             <img class="w-52 mx-auto sm:w-5/12" src="{{ asset('images/laptop-image-transparent.png') }}" alt="">
             <div class="w-full sm:w-5/12">
                 <h3 class="text-3xl sm:text-5xl">عنا</h3>

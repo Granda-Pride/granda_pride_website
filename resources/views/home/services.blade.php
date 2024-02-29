@@ -1,5 +1,5 @@
 <section id="services" class="w-full sm:h-svh sm:flex sm:flex-col sm:w-10/12 sm:mx-auto">
-    <h1 class="text-4xl text-center mt-4 sm:mt-8 sm:text-8xl">خدماتنا</h1>
+    <h1 class="text-4xl text-center mt-8 sm:mt-24 sm:text-8xl">خدماتنا</h1>
 
     <div class="sm:grid sm:gap-4 sm:grid-cols-12 sm:flex-grow">
         <div

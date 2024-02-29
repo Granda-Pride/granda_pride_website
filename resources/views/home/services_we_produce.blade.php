@@ -1,7 +1,7 @@
 <section id="services_we_produce" class="w-full sm:h-svh">
     <div class="h-full sm:mx-auto sm:w-10/12 sm:flex sm:flex-col">
 
-        <div class="w-full mt-4 sm:mt-16">
+        <div class="w-full mt-4 sm:mt-24">
             <h3 class="text-3xl text-center sm:text-5xl"> الخدمات التي نقدمها</h3>
             <p class="text-sm mt-4 text-center sm:text-xl">لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية
                 هي الشكل وليس المحتوى) ويُستخدم في صناعات المطابع ودور النشر. </p>

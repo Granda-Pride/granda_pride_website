@@ -5,10 +5,10 @@
         {{-- @include('common.navbar') --}}
         {{-- @include('home.home') --}}
         {{-- @include('home.services') --}}
-        {{-- @include('home.about') --}}
+        @include('home.about')
         {{-- @include('home.services_we_produce') --}}
         {{-- @include('home.pricing_plane') --}}
-        @include('home.team-members')
+        {{-- @include('home.team-members') --}}
         {{-- @include('home.blog') --}}
     </main>
 @endsection

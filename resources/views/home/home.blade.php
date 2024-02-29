@@ -1,9 +1,10 @@
-<section id="home" class="text-white sm:h-[90vh] h-svh bg-slate-950">
+<section id="home" class="text-white h-svh bg-slate-950">
     <div class="w-full h-full mx-auto sm:w-10/12">
         <script>
             function openNabBar() {
                 const navBar = document.getElementById('navbar');
                 navBar.classList.remove('hidden');
+                navBar.classList.remove('fixed');
 
                 const homeSection = document.getElementById('home');
                 homeSection.classList.remove('h-svh');

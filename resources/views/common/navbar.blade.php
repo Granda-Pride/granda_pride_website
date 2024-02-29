@@ -1,10 +1,12 @@
-<nav id="navbar" class="sm:w-10/12 sm:h-[10vh] sm:flex sm:justify-between sm:mx-auto hidden">
+<nav id="navbar" class="w-full min-h-[10svh] md:px-44 fixed bg-transparent sm:flex sm:justify-between hidden">
     <div id="navbar-links-wrapper" class="sm:w-fit sm:mx-0 mx-auto my-auto">
         <ul id="navbar-links" class="text-xl sm:flex sm:justify-center">
             <script>
                 function closeNav() {
                     const navBar = document.getElementById('navbar');
                     navBar.classList.add('hidden');
+                    navBar.classList.add('fixed');
+
 
                     const homeSection = document.getElementById('home');
                     homeSection.classList.add('h-svh');
@@ -20,10 +22,10 @@
             </li>
             <li class="my-1 text-gray-400 text-center sm:ml-6"><a href="/#about"> عنا</a></li>
             <li class="my-1 text-gray-400 text-center sm:ml-6"><a href="/#services"> خدماتنا</a></li>
-            <li class="my-1 text-gray-400 text-center sm:ml-6"><a href="/#navbar"> الرئيسيه</a></li>
+            <li class="my-1 text-gray-400 text-center sm:ml-6"><a href="/#home"> الرئيسيه</a></li>
         </ul>
     </div>
-    <div class="w-[10vh] h-[10vh] hidden sm:block bg-cover"
+    {{-- <div class="w-[10vh] h-[10vh] hidden sm:block bg-cover"
         style="background-image: url('{{ asset('/images/company-logo.jpg') }}')">
-    </div>
+    </div> --}}
 </nav>
