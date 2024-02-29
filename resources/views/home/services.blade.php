@@ -1,14 +1,14 @@
-<section id="services" class="lg:w-10/12 mx-auto h-svh flex flex-col">
-    <h1 class="text-8xl text-center mt-8">خدماتنا</h1>
+<section id="services" class="w-full sm:h-svh sm:flex sm:flex-col sm:w-10/12 sm:mx-auto">
+    <h1 class="text-4xl text-center mt-4 sm:mt-8 sm:text-8xl">خدماتنا</h1>
 
-    <div class=" min-h-96 lg:h-[50vh] mx-auto grid lg:grid-cols-12 gap-4 md:mt-64">
+    <div class="sm:grid sm:gap-4 sm:grid-cols-12 sm:flex-grow">
         <div
-            class="shadow lg:col-span-4 min-h-96 lg:h-[80%] m-4 bg-gradient-to-tr from-[#f2f7ff] via-50% via-blue-100 to-white rounded-2xl">
-            <div class="w-48 h-48 bg-cover rounded-2xl mx-auto mt-2"
+            class="rounded-2xl m-8 bg-gradient-to-tr from-slate-50 via-50% via-slate-200 to-white sm:min-h-96 sm:col-span-4 sm:shadow sm:h-fit sm:my-auto">
+            <div class="bg-cover rounded-2xl mx-auto mt-4 w-32 h-32 sm:w-48 sm:h-48"
                 style="background-image: url('{{ asset('/images/company-logo.jpg') }}')"></div>
-            <div class="m-8">
-                <h1 class="text-3xl text-center mb-5">برمجة المواقع</h1>
-                <p>
+            <div>
+                <h1 class="text-xl text-center mb-2 sm:mt-4 sm:text-3xl">برمجة المواقع</h1>
+                <p class="text-sm sm:mt-4">
                     لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في
                     صناعات
                     المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت
@@ -18,12 +18,12 @@
             </div>
         </div>
         <div
-            class="shadow lg:col-span-4 min-h-96 lg:h-[80%] m-4 bg-gradient-to-tr from-[#f2f7ff] via-50% via-blue-100 to-white rounded-2xl">
-            <div class="w-48 h-48 bg-cover rounded-2xl mx-auto mt-2"
+            class="rounded-2xl m-8 bg-gradient-to-tr from-slate-50 via-50% via-slate-200 to-white sm:min-h-96 sm:col-span-4 sm:shadow sm:h-fit sm:my-auto">
+            <div class="bg-cover rounded-2xl m-auto w-32 h-32 sm:w-48 sm:h-48"
                 style="background-image: url('{{ asset('/images/company-logo.jpg') }}')"></div>
-            <div class="m-8">
-                <h1 class="text-3xl text-center mb-5">البيوت الذكيه</h1>
-                <p>
+            <div>
+                <h1 class="text-xl text-center mb-2 sm:text-3xl">برمجة المواقع</h1>
+                <p class="text-sm">
                     لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في
                     صناعات
                     المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت
@@ -33,12 +33,12 @@
             </div>
         </div>
         <div
-            class="shadow lg:col-span-4 min-h-96 lg:h-[80%] m-4 bg-gradient-to-tr from-[#f2f7ff] via-50% via-blue-100 to-white rounded-2xl">
-            <div class="w-48 h-48 bg-cover rounded-2xl mx-auto mt-2"
+            class="rounded-2xl m-8 bg-gradient-to-tr from-slate-50 via-50% via-slate-200 to-white sm:min-h-96 sm:col-span-4 sm:shadow sm:h-fit sm:my-auto">
+            <div class="bg-cover rounded-2xl m-auto w-32 h-32 sm:w-48 sm:h-48"
                 style="background-image: url('{{ asset('/images/company-logo.jpg') }}')"></div>
-            <div class="m-8">
-                <h1 class="text-3xl text-center mb-5">تطبيقات الهاتف</h1>
-                <p>
+            <div>
+                <h1 class="text-xl text-center mb-2 sm:text-3xl">برمجة المواقع</h1>
+                <p class="text-sm">
                     لوريم إيبسوم(Lorem Ipsum) هو ببساطة نص شكلي (بمعنى أن الغاية هي الشكل وليس المحتوى) ويُستخدم في
                     صناعات
                     المطابع ودور النشر. كان لوريم إيبسوم ولايزال المعيار للنص الشكلي منذ القرن الخامس عشر عندما قامت
@@ -47,7 +47,5 @@
                     الأحرف. </p>
             </div>
         </div>
-
     </div>
-
 </section>
